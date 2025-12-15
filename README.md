@@ -84,6 +84,8 @@ Two publicly available datasets were used:
 
 * Input Size: 224 × 224
 
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/c3862b50-d2fa-4168-9805-ba4739b5c037" />
+
 ## 📊 Results
 
 ### 🔹 Accuracy Comparison
@@ -92,6 +94,8 @@ Two publicly available datasets were used:
 * Baseline CNN	86.84%
   
 ### 🔹 Test Performance (ResNet-50)
+
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/cb063610-3ffe-4e7a-8c14-c7931bb31886" />
 
 * Test Accuracy: 0.9510
 
@@ -115,7 +119,9 @@ The project includes:
 
 * Class distribution histograms for all datasets
 
-## 🧪 Demo (Inference)
+## ▶️ Demo 
+
+You can watch the demo video: https://drive.google.com/file/d/1HPsSqxOowycgL-8DYcT4narRqJvrNbwK/view?usp=drive_link
 
 You can test the trained model on a new image:
 
@@ -141,7 +147,7 @@ The output will display the image and the predicted tumor class.
 
 * Explore multi-sequence MRI data
 
-## 📌 Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 
@@ -157,5 +163,21 @@ The output will display the image and the predicted tumor class.
 
 * Google Colab
 
+## 📚 Project Structure
+/Deep-Learning-Based-Brain-Tumor-Classification-Using-MRI-Images/
 
-  
+├── FinalReport_Team2.ipynb
+
+├── MIE1517 Final Project.pptx
+
+├── README.md
+
+## 📝 Conclusion
+
+This project shows how deep learning can be effectively applied to brain tumor MRI classification. By comparing a baseline CNN with a tuned ResNet-50 model, we demonstrate the clear benefits of transfer learning in achieving high accuracy and strong generalization. The results highlight the potential of deep learning models as reliable tools to support automated medical image analysis and provide a strong foundation for future improvements.
+
+## 👤 Authors
+
+This project was completed by a team of four members.
+
+Amine Mazouzi, Basak Kaya, Calise Moldawa, Haisu Wang
