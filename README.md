@@ -10,7 +10,7 @@ Accurate diagnosis of brain tumors relies on expert interpretation of MRI scans,
 
 Two publicly available datasets were used:
 
-### 1️⃣ Kaggle Brain Tumor MRI Dataset
+### 1️⃣ Kaggle Brain Tumor MRI Dataset (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 * Used for training and validation.
 
@@ -32,7 +32,7 @@ Two publicly available datasets were used:
 
   * notumor
 
-### 2️⃣ Roboflow MRI Dataset
+### 2️⃣ Roboflow MRI Dataset (https://www.google.com/url?q=https%3A%2F%2Funiverse.roboflow.com%2Fali-rostami%2Flabeled-mri-brain-tumor-dataset) 
 
 * Used only for testing.
 
