@@ -2,6 +2,8 @@
 
 This project applies deep learning techniques to classify brain tumor MRI images into four categories using Convolutional Neural Networks (CNNs). The goal is to evaluate the effectiveness of transfer learning models—particularly ResNet-50—and compare their performance against a simple baseline CNN for automated medical image analysis.
 
+This work was completed as the final project for MIE1517: Introduction to Deep Learning at the University of Toronto. The project was carried out by a team of four members and includes a progress report, final report, and project presentation documenting the development process, results, and analysis.
+
 ## 📌 Project Overview
 
 Accurate diagnosis of brain tumors relies on expert interpretation of MRI scans, a process that is time-consuming and requires years of medical training. This project explores how deep learning models can assist radiologists by automatically classifying MRI images into tumor and non-tumor categories, potentially improving efficiency and consistency in diagnosis.
@@ -32,6 +34,8 @@ Two publicly available datasets were used:
   * pituitary
 
   * notumor
+ 
+<img width="1933" height="350" alt="image" src="https://github.com/user-attachments/assets/8d5aaf8e-7675-4158-815f-15ae3072a78d" />
 
 ### 2️⃣ Roboflow MRI Dataset
 (https://www.google.com/url?q=https%3A%2F%2Funiverse.roboflow.com%2Fali-rostami%2Flabeled-mri-brain-tumor-dataset) 
