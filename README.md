@@ -93,9 +93,9 @@ Two publicly available datasets were used:
   
 ### 🔹 Test Performance (ResNet-50)
 
-* Test Accuracy: 94.69%
+* Test Accuracy: 0.9510
 
-* Test Loss: 0.1604
+* Test Loss: 0.1429
 
 * Strong generalization across all four classes
 
