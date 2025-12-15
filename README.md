@@ -52,6 +52,9 @@ Two publicly available datasets were used:
 
 * Used as a performance benchmark
 
+<img width="961" height="280" alt="image" src="https://github.com/user-attachments/assets/5df62ed4-cb31-4750-968c-f7d3bb0d9751" />
+
+
 ### ✅ ResNet-50 (Best Model)
 
 * Pretrained on ImageNet (transfer learning)
@@ -61,6 +64,9 @@ Two publicly available datasets were used:
 * Optimized using SGD with momentum
 
 * Hyperparameter tuning applied
+
+  <img width="968" height="364" alt="image" src="https://github.com/user-attachments/assets/de5e26a1-8235-48dc-9c60-66507c834fcc" />
+
 
 ## ⚙️ Training Details
 
