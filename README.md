@@ -105,7 +105,7 @@ Confusion matrices, loss curves, accuracy curves, and example predictions are in
 
 ## 🧪 Model Evaluation & Visualization
 
-* The project includes:
+The project includes:
 
 * Training & validation loss/accuracy plots
 
