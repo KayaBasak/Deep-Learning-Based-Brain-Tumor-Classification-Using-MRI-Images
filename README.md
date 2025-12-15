@@ -14,7 +14,7 @@ Two publicly available datasets were used:
 
 * Used for training and validation.
 
-* Total images: 7,023
+* Total images: 7023
 
 * Train / Validation split: 80% / 20%
 
