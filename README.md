@@ -9,7 +9,8 @@ This work was completed as the final project for MIE1517: Introduction to Deep L
 Accurate diagnosis of brain tumors relies on expert interpretation of MRI scans, a process that is time-consuming and requires years of medical training. This project explores how deep learning models can assist radiologists by automatically classifying MRI images into tumor and non-tumor categories, potentially improving efficiency and consistency in diagnosis.
 
 ## 📖 Blog Post
-For a detailed walkthrough of the analysis, modeling decisions, and interpretability results, see the accompanying Medium article:
+For a detailed walkthrough of the methodology, analysis, and results, see the accompanying Medium article:
+
 [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/deep-learning-based-brain-tumor-classification-using-mri-images-48e2a4643cfe) 
 
 ## 📂 Datasets
